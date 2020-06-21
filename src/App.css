@@ -1,0 +1,25 @@
+body{
+    font-size: 20px;
+    margin:0;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+h1{
+    margin:0;
+    margin-bottom: .5rem;
+}
+
+input{
+    border: 1px solid grey;
+    border-radius: .3rem;
+    padding: .25rem;
+    width:7em;
+}
+
+.equals{
+   font-weight: bold; 
+   font-size: 2rem;
+}
